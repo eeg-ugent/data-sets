@@ -2,6 +2,12 @@
 Here we can collect and share our EEG data-sets. We can also add to the list below of externally collected data sets. <br>
 Preferrably, EEG data sets will be upload in [BIDS format](https://www.nature.com/articles/s41597-019-0104-8).
 
+## Links to PP02 data sets
+
+### Verbeke et al. (2021) (n = 27, Gent)
+Probabilistic reversal learning task including behavioral data, raw eeg, and preprocessed eeg data. https://github.com/CogComNeuroSci/PieterV_public/tree/master/Reversal_learning
+https://www.jneurosci.org/content/41/7/1516
+
 ## Links to very large external data sets
 
 ### HBN Biobank (n = 664 - 10000, ages 5-21, New York)
