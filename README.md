@@ -5,7 +5,7 @@ Preferrably, EEG data sets will be upload in [BIDS format](https://www.nature.co
 ## Links to PP02 data sets
 
 ### Verbeke et al. (2021) (n = 27, Gent)
-Probabilistic reversal learning task including behavioral data, raw eeg, and preprocessed eeg data. https://github.com/CogComNeuroSci/PieterV_public/tree/master/Reversal_learning
+Probabilistic reversal learning task including behavioral data, raw eeg, and preprocessed eeg data. https://github.com/CogComNeuroSci/PieterV_public/tree/master/Reversal_learning <br>
 https://www.jneurosci.org/content/41/7/1516
 
 ## Links to very large external data sets
